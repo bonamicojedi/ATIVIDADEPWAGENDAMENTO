@@ -61,7 +61,8 @@ body {
   color: #212529;
   text-align: left;
   background-color: #a52e2e;
-  background-image: repeating-radial-gradient(red, #a52e2e 10%, #910606 15%);
+  background-image: url("https://www.teahub.io/photos/full/239-2396684_wallpaper-red-white-hexagon-black-gradient-glow-grey.jpg");
+  background-size: cover;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
